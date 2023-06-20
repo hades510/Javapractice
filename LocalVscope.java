@@ -1,5 +1,8 @@
+import java.util.Scanner;
 public class LocalVscope {
     void method() {
+        Scanner sc = new Scanner(System.in);
+        
         int x=5;
         System.out.println(x);
     }
