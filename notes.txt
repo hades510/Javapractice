@@ -1,0 +1,96 @@
+//public is an access modifier.
+/*the JVM calls tha main()method outside the class.
+ therefore it is necesary to make java main()method pubic.
+*/
+/*static is a keyword.
+Main advantage is we can call main()without 
+creating class instances.
+*/
+/try to avoid single character variable
+/**Primitive data type
+ * boolean
+ * char
+ * int
+ * float
+ * double
+ * byte
+ * short
+ * long
+ * 
+ * Non-Primitive data type: refer to as object.
+ *arraylist,string and classes are the e.gs.
+ * 
+ */
+ /*
+ if you want to define float value,
+ f should be entered with value, if you don't do that
+ it will be read as double data type,you 
+ would encounter an complication error
+
+ */**Variable scopes
+ * local variable scope
+    defined inside a block,method body 
+    or constructor
+ *cannot be accessed outside the method.
+ */
+
+ /*
+ Variable declared inside methodbody cannot
+ be accessed outside methodbody.
+
+ /*There are three types of variables
+ *local variable:defined inside block,method 
+ body or constructor
+ *Instance(object) variables:defined inside class but 
+ outside block,methodbody.Non-static
+ *Static variable:known as class variables.
+
+ /*TypeCasting
+ Process of converting 1 Primitivedata into another.
+ done auto or explicitly.
+
+ TYpes of TypeCasting
+ *widening or automatic type conversion
+ /*
+ byte>short>int>long>float>double
+ */
+ *narrowing or explicit type conversion
+
+ /*Overflow:
+ when we assign value to variable more than 
+ its range.
+ *underflow:
+ opposite of Overflow.
+//**
+For e.g. if i increment the max value of int 
+it will return min value of int,
+this is Overflow
+
+/*unlike print() and println()
+printf() takes multiple args
+/*Format specifiers: used by printf {Just like in C}
+%d for int
+%f for float
+%s for string
+
+/*In java to take input there are 2 ways/
+1**. Scanner class
+2**.BufferedReader class
+
+/**/Scanner is a class to take input.
+/**/Present in java.util package.
+/**/Most preferable ways for input.
+/**/Input from Primitivedata.
+Read data
+syntax:/*next(Datatype)()
+/**/nextInt() = for interger
+/**/nextLine() = for line of text
+/**/
+
+ 
+ 
+ 
+ 
+
+
+

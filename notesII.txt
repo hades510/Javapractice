@@ -1,0 +1,23 @@
+/*Operators in java*/
+*Arithmetic Operators:same as C
+*Unary Operators:require 1 operand
+e.g increment,decrement,negation,inverting
+of boolean.
+'~' IS a bitwise complement which represents
+    one's complement.
+*Relational Operators*
+<,>,<=,>=,!
+result is always boolean.*/
+*Logical Operators*
+
+/*Ternary or Conditional Operators*/
+Syntax:
+variable = exp1 ? exp2 : exp3
+
+NOTES:
+class ChildClass extends ParentClass implements Myinterface
+/*hERE ChildClass inherits the properties &
+methods from ParentClass using extends 
+
+it also declares that it implements Myinterface using the
+implements

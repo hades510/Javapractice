@@ -1,0 +1,44 @@
+//**Types of methods**\\
+*pre-defined: like sqrt(),min(),max(),round() For MATH CLASS
+length(),toUpperCase()toLowerCase(),equals() For STRING CLASS
+
+*User-defined: Defined by User
+1.No args passed and no return value.
+    //SYNATX;
+    //fn declaration: void fn();
+    //fn call:fn();
+    //fn definaion:void fn();
+    //    {
+    //        statements;
+    //    }
+
+2.No args passed but return value.
+    //SYNATX:
+    //fn declaration:int fn();
+    //fn call:fn();
+    //fn definaion:int fn();
+    //{
+    //    statements;
+    //    return x;
+    //}    
+
+ 3.Args passed but no return value.
+    //SYNATX:
+    //fn declaration:int fn(int n);
+    //fn call:fn(n);
+    //fn definaion:int fn(n);
+    //{
+    //    statements;
+    //}
+
+ 4.Args passed with return value.
+    //SYNATX:
+    //fn declaration:int fn(int n);
+    //fn call:fn(n);
+    //fn defination:int fn(n);
+    //{
+    //    statements;
+    //    return n;
+    //}
+
+    //**

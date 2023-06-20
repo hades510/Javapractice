@@ -1,0 +1,17 @@
+*break*
+*labeled break*
+Syntax:
+first: {
+    //statements
+    second: {
+        third:{
+            statements
+
+            break second;
+        }
+    }
+}
+*Continue*
+*Continue with nested loop*
+*Continue with labeled for loop*
+*return*

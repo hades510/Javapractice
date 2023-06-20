@@ -1,0 +1,19 @@
+*Functions in java*
+A function is a collection of statments/block of code
+used to perform task.
+"It is used to reuse the code without retyping the code."
+//**Method declaration**\\
+"It provids info on methods attributes like
+*method name, return type,viibility, parameters and 
+body"
+//**SYNTAX**\\
+public int max(int x, int y) {
+    //Mehtod body
+}
+Here,
+*PUBLIC: modifier.
+*INT: int is the "return type method"I.E returns int value.
+*MAX: name of the method
+*intx, int y: list of parameters.
+
+//**Types of methods in java **\\

@@ -1,0 +1,23 @@
+*While loop*
+ /* inttialization;
+    while(condition){
+        statements;
+        update_expression;
+    }
+ */
+*Do-While*
+/*initialization;
+  do{
+    statements;
+    update_expression;
+ }while(condition)
+ */
+*For *
+/*for(initialization;condition testing;increment/decrement){
+    statements
+} */
+*java enchanced for loop*
+/*for(T element:collection obj/array){
+    statements;
+} */
+Syntax:Same as C
