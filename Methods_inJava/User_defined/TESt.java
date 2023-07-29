@@ -1,3 +1,4 @@
+package Methods_inJava.User_defined;
  class live {
     static int sum(int a, int b){
         int z;

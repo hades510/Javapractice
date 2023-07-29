@@ -8,11 +8,11 @@ public class Accessong_elements {
         Scanner sc=null;
         try{
             sc=new Scanner(System.in);
-            int i;
-            for ( i = 0; i < std.length; i++) {
+            
+            for ( int i = 0; i < std.length; i++) {
                 std[i]=sc.nextInt();
             }
-            System.out.println("Third value: "+std[i]);
+            System.out.println("Third value: "+std[2]);
         }finally{
             if (sc !=null) {
                 sc.close();

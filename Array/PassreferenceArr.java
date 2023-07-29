@@ -10,6 +10,7 @@ class PassreferenceArr {
         for(i=0;i<5;i++){
             arr[i]=sc.nextInt();
             System.out.println(arr[i]+" ");
+            sc.close();
         }
     }
     public static void main(String[] args) {
